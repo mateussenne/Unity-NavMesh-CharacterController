@@ -1,4 +1,4 @@
-# Unity-NavMesh-CharacterController-Scaffold
+# Unity-NavMesh-CharacterController
 Quick create a physics based player controller that sticks to your level NavMesh bake
 
 #Steps
