@@ -1,7 +1,7 @@
-# Unity-NavMesh-CharacterController
+# Unity-NavMesh-CharacterController V1.0
 Quick create a physics based player controller that sticks to your level NavMesh bake
 
-#Steps
+# Steps
 
 1 - Import the player.cs file to your Scripts folder at you Unity project <br>
 2 - Create a player object<br>
