@@ -5,11 +5,6 @@ using UnityEngine.AI;
 
 public class Player : MonoBehaviour
 {
-    /*ATENTION: You need to add both de CharacterController and NavMesh Agent components to your player object in order for this code to work.
-    /File developed by Mateus Senne, follow me at Twitter to keep up with the stuff that I'm doing @MyGameDevPath
-
-    */
-
     //Components variables
     private CharacterController _character;
     private NavMeshAgent _agent;
@@ -26,7 +21,7 @@ public class Player : MonoBehaviour
     [SerializeField]
     private float _gravity = 1f;
 
-    //This is the control variable to your physics based character, DO NOT delete this
+    //This is the control variable to your physics based character
     private float _yVelocity;
 
     //We get the both components and assign to it's respective variables
